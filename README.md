@@ -1,2 +1,5 @@
-VER 4.5.0
-UUID a9d71002-23c5-4d73-9d5d-368619bac679
+# v2ray 部署在 openshift starter
+
+Docker 镜像搜索：wangfeng769/openshift
+
+环境变量： CONFIG_JSON（配置)
