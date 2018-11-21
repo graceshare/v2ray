@@ -2,4 +2,6 @@
 
 Docker 镜像搜索：wangfeng769/openshift
 
-环境变量： CONFIG_JSON（配置)
+环境变量：
+
+CONFIG_JSON
